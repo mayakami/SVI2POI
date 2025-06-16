@@ -1,0 +1,130 @@
+﻿OBJECTID *,Shape *,FID_points,FID_points,osm_id,name,barrier,highway,ref,address,is_in,place,man_made,other_tags,lat,lon,FID_points_divided_MinimumBoundi1,FID_Dataset3SVISam_MinimumBoundi
+1,点,1973,977,4848408996,Lojel, , , , , , , ,"addr:street=>""漆咸道南 Chatham Road South"",""shop""=>""yes""",22.301244,114.176296,1,1
+2,点,1977,1690,6387056686,El Cid Spanish Restaurant, , , , , , , ,"addr:housenumber=>""13"",""addr:street""=>""诺士佛台 Knutsford Terrace"",""amenity""=>""restaurant"",""cuisine""=>""spanish"",""internet_access""=>""wlan"",""name:en""=>""El Cid Spanish Restaurant"",""name:es""=>""El Cid Restaurante Español"",""opening_hours""=>""Su-Th 12:00-",22.301271,114.174335,1,1
+3,点,1981,2631,12454443678,BYD, , , , , , , ,"brand=>""BYD"",""brand:wikidata""=>""Q27423"",""shop""=>""car""",22.301298,114.176277,1,1
+4,点,1987,1229,4850542041,南대门韩国料理 Namdaemoon, , , , , , , ,"addr:street=>""天文台道 Observatory Road"",""amenity""=>""restaurant"",""cuisine""=>""korean"",""name:en""=>""Namdaemoon"",""name:ko""=>""남대문"",""name:ko-Latn""=>""Namdaemun"",""name:zh""=>""南대门韩国料理""",22.30133,114.175113,1,1
+5,点,1989,2204,10291747452,香港科学馆 Hong Kong Science Museum, ,bus_stop, , , , , ,"bus=>""yes"",""name:en""=>""Hong Kong Science Museum"",""name:zh""=>""香港科学馆"",""network""=>""Citybus;Cityflyer"",""network:wikidata""=>""Q5124055;Q5124066"",""operator""=>""城巴 Citybus"",""operator:en""=>""Citybus"",""operator:wikidata""=>""Q5124055"",""operator:zh""=>""a",22.301367,114.176361,1,1
+6,点,1992,2719,12757687954, , , ,LCSD YTM/38, , , , ,"circumference=>""1.46"",""denotation""=>""natural_monument"",""height""=>""13"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.301403,114.171982,1,1
+7,点,1995,2203,10291747451,香港科学馆 Hong Kong Science Museum, ,bus_stop, , , , , ,"bus=>""yes"",""name:en""=>""Hong Kong Science Museum"",""name:zh""=>""香港科学馆"",""network""=>""KMB"",""network:wikidata""=>""Q312243"",""operator""=>""九巴 KMB"",""operator:en""=>""KMB"",""operator:wikidata""=>""Q312243"",""operator:zh""=>""九巴"",""owner""=>""九巴 KMB"",""own",22.301431,114.176383,1,1
+8,点,1997,2201,10291747449,香港科学馆 Hong Kong Science Museum, , , , , , , ,"bus=>""yes"",""name:en""=>""Hong Kong Science Museum"",""name:zh""=>""香港科学馆"",""public_transport""=>""stop_position""",22.301436,114.176444,1,1
+9,点,1999,978,4848408997,ICE FIRE, , , , , , , ,"addr:city=>""Hong Kong"",""addr:district""=>""尖沙咀 Tsim Sha Tsui"",""addr:housenumber""=>""111-113"",""addr:street""=>""漆咸道南 Chatham Road South"",""clothes""=>""women;children;men"",""opening_hours""=>""Mo-Su 12:00-22:00"",""operator""=>""ICE FIRE Limited"",""shop""=",22.301459,114.176388,1,1
+10,点,2001,538,3495692464,Pelican Bay, , , , , , , ,"amenity=>""bar""",22.301473,114.174763,1,1
+11,点,2004,2202,10291747450,香港科学馆 Hong Kong Science Museum, , , , , , , ,"bus=>""yes"",""name:en""=>""Hong Kong Science Museum"",""name:zh""=>""香港科学馆"",""public_transport""=>""stop_position""",22.301487,114.176461,1,1
+12,点,2005,2718,12757687953, , , ,LCSD YTM/37, , , , ,"circumference=>""1.003"",""denotation""=>""natural_monument"",""height""=>""13"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.301497,114.171972,1,1
+13,点,2007,2111,10008318298,古物古迹办事处 Antiquities and Monuments Office, , , , , , , ,"name:en=>""Antiquities and Monuments Office"",""name:zh""=>""古物古迹办事处"",""office""=>""yes"",""website""=>""https://www.amo.gov.hk/"",""wikidata""=>""Q4775201"",""wikimedia_commons""=>""Category:Antiquities and Monuments Office (AMO)"",""wikipedia""=>""zh:古物古",22.301545,114.172179,1,1
+14,点,2008,2522,11542446289, , ,crossing, , , , , , ,22.301573,114.176457,1,1
+15,点,2012,2704,12757687938, , , ,LCSD YTM/36, , , , ,"circumference=>""0.86"",""denotation""=>""natural_monument"",""height""=>""9"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.301618,114.171965,1,1
+16,点,2014,17,452735806, ,gate, , , , , , ,"bicycle=>""no"",""foot""=>""no""",22.301638,114.174432,1,1
+17,点,2016,979,4848408998,三餐冰室 Sam Chaan Cafe, , , , , , , ,"addr:street=>""漆咸道南 Chatham Road South"",""amenity""=>""cafe"",""name:en""=>""Sam Chaan Cafe"",""name:zh""=>""三餐冰室""",22.301657,114.176391,1,1
+18,点,2017,1787,6776649530,圣安德烈堂 St. Andrew's Church, , , , , , , ,"bus=>""yes"",""name:en""=>""St. Andrew's Church"",""name:zh""=>""圣安德烈堂"",""public_transport""=>""stop_position""",22.301681,114.171919,1,1
+19,点,2018,561,3912040158,圣安德烈堂 St. Andrew's Church, ,bus_stop, , , , , ,"bus=>""yes"",""local_ref""=>""S48"",""name:en""=>""St. Andrew's Church"",""name:zh""=>""圣安德烈堂"",""network""=>""KMB"",""network:wikidata""=>""Q312243"",""operator""=>""九巴 KMB"",""operator:en""=>""KMB"",""operator:wikidata""=>""Q312243"",""operator:zh""=>""九巴"",""owner""=>""ow",22.301684,114.171982,1,1
+20,点,2021,541,3688743423,Sky Deck, , , , , , , ,"addr:housename=>""珀荟酒店 Popway Hotel"",""addr:housename:en""=>""Popway Hotel"",""addr:housename:zh""=>""珀荟酒店"",""amenity""=>""bar"",""events_venue""=>""yes"",""location""=>""rooftop"",""name:en""=>""Sky Deck""",22.301694,114.176429,1,1
+21,点,2022,2199,10291747447,香港科学馆 Hong Kong Science Museum, , , , , , , ,"bus=>""yes"",""name:en""=>""Hong Kong Science Museum"",""name:zh""=>""香港科学馆"",""public_transport""=>""stop_position""",22.301697,114.176532,1,1
+22,点,2025,768,4520779950,柏丽购物大道 Park Lane, , , , , , , ,"bus=>""yes"",""name:en""=>""Park Lane"",""name:zh""=>""柏丽购物大道"",""public_transport""=>""stop_position""",22.301716,114.171843,1,1
+23,点,2033,2117,10033752301, ,gate, , , , , , , ,22.301788,114.172032,1,1
+24,点,2036,2382,11141828762,柏丽购物大道 Park Lane Shopper's Boulevard, , , , , , , ,"bus=>""yes"",""name:en""=>""Park Lane Shopper's Boulevard"",""name:zh""=>""柏丽购物大道"",""public_transport""=>""stop_position""",22.301798,114.171837,1,1
+25,点,2040,980,4848408999,Gennie's Maternity, , , , , , , ,"addr:street=>""漆咸道南 Chatham Road South"",""clothes""=>""maternity"",""shop""=>""clothes""",22.301824,114.176449,1,1
+26,点,2041,2200,10291747448,香港科学馆 Hong Kong Science Museum, ,bus_stop, , , , , ,"bus=>""yes"",""name:en""=>""Hong Kong Science Museum"",""name:zh""=>""香港科学馆"",""network""=>""KMB"",""network:wikidata""=>""Q312243"",""operator""=>""九巴 KMB"",""operator:en""=>""KMB"",""operator:wikidata""=>""Q312243"",""operator:zh""=>""九巴"",""owner""=>""九巴 KMB"",""own",22.301833,114.176521,1,1
+27,点,2044,158,2209285899,7-Eleven, , , , , , , ,"addr:country=>""HK"",""brand""=>""7-Eleven"",""brand:wikidata""=>""Q259340"",""brand:wikipedia""=>""en:7-Eleven"",""name:en""=>""7-Eleven"",""name:zh""=>""7-11便利店"",""shop""=>""convenience"",""website""=>""https://www.7-eleven.com.hk/""",22.30184,114.17549,1,1
+28,点,2054,981,4848409000,Spread, , , , , , , ,"addr:street=>""漆咸道南 Chatham Road South"",""shop""=>""yes""",22.301878,114.176522,1,1
+29,点,2059,2717,12757687952, , , ,LCSD YTM/7, , , , ,"circumference=>""1.49"",""denotation""=>""natural_monument"",""height""=>""12"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.301919,114.171781,1,1
+30,点,2061,982,4848409001,Perfect Tan Max, , , , , , , ,"addr:street=>""漆咸道南 Chatham Road South"",""shop""=>""tanning""",22.301929,114.176535,1,1
+31,点,2062,2614,12207103301,Doner Kebab Turkish Food, , , , , , , ,"addr:housenumber=>""15A"",""amenity""=>""restaurant"",""cuisine""=>""turkish""",22.301958,114.175353,1,1
+32,点,2064,704,4357912068,香港天文台总部 Hong Kong Observatory Headquarters, , , , , , ,monitoring_station,"monitoring:weather=>""yes"",""name:en""=>""Hong Kong Observatory Headquarters"",""name:zh""=>""香港天文台总部"",""ref:wmo""=>""45005"",""wikidata""=>""Q15915054"",""wikimedia_commons""=>""Category:Hong Kong Observatory Headquarter"",""wikipedia""=>""zh:香港天文台or",22.301973,114.17432,1,1
+33,点,2065,2040,9565843547,天文台山 Observatory Hill, , , , , , , ,"alt_name=>""伊利近山 Elgin Hill"",""alt_name:en""=>""Elgin Hill"",""alt_name:zh""=>""伊利近山"",""landform""=>""peak"",""name:en""=>""Observatory Hill"",""name:zh""=>""天文台山"",""natural""=>""peak"",""official_name""=>""艾尔尊山 Mount Elgin"",""official_name:en""=>""",22.301974,114.174313,1,1
+34,点,2069,2037,9409054818, , , , , , , , ,"addr:street=>""金巴利道 Kimberley Road"",""amenity""=>""restaurant"",""name:en""=>""Burger""",22.30201,114.175575,1,1
+35,点,2072,2714,12757687948, , , ,LCSD YTM/35, , , , ,"circumference=>""1.03"",""denotation""=>""natural_monument"",""height""=>""10"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.302041,114.171943,1,1
+36,点,2078,2713,12757687947, , , ,LCSD YTM/34, , , , ,"circumference=>""0.86"",""denotation""=>""natural_monument"",""height""=>""10"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.302111,114.171936,1,1
+37,点,2079,2032,9274360117, , , , , , , , ,"addr:street=>""柯士甸路 Austin Avenue"",""amenity""=>""restaurant"",""cuisine""=>""french"",""name:en""=>""La Cave de Scarlett French""",22.302111,114.176367,1,1
+38,点,2085,2712,12757687946, , , ,LCSD YTM/33, , , , ,"circumference=>""1.21"",""denotation""=>""natural_monument"",""height""=>""13"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.302202,114.171927,1,1
+39,点,2088,1578,6282414185,富豪, , , , , , , ,"amenity=>""restaurant""",22.302258,114.171988,1,1
+40,点,2090,61,1187352777, ,lift_gate, , , , , , ,"bicycle=>""no"",""foot""=>""no""",22.302302,114.172234,1,1
+41,点,2091,2711,12757687945, , , ,LCSD YTM/32, , , , ,"circumference=>""0.93"",""denotation""=>""natural_monument"",""height""=>""13"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.302306,114.171918,1,1
+42,点,2095,2118,10033752303, ,gate, , , , , , , ,22.302362,114.172003,1,1
+43,点,2098,2130,10100426246,榴梿乐园 Durian Land, , , , , , , ,"addr:housenumber=>""92"",""addr:street""=>""金巴利道 Kimberley Road"",""amenity""=>""restaurant"",""contact:facebook""=>""https://www.facebook.com/durianland.hk/"",""contact:instagram""=>""https://www.instagram.com/durianland_hk/"",""name:en""=>""Durian Land"",""name:zh""",22.302376,114.175723,1,1
+44,点,2101,866,4847959366,bossini, , , , , , , ,"addr:street=>""弥敦道 Nathan Road"",""brand""=>""bossini"",""brand:en""=>""bossini"",""brand:wikidata""=>""Q4035334"",""brand:zh""=>""堡狮龙"",""name:en""=>""bossini"",""name:zh""=>""堡狮龙"",""shop""=>""clothes""",22.302399,114.171995,1,1
+45,点,2105,582,3914318589,7-Eleven, , , , , , , ,"addr:country=>""HK"",""brand""=>""7-Eleven"",""brand:wikidata""=>""Q259340"",""brand:wikipedia""=>""en:7-Eleven"",""name:en""=>""7-Eleven"",""name:zh""=>""7-11便利店"",""shop""=>""convenience"",""website""=>""https://www.7-eleven.com.hk/""",22.302428,114.172145,1,1
+46,点,2111,2706,12757687940, , , ,LCSD YTM/30, , , , ,"circumference=>""1.3"",""denotation""=>""natural_monument"",""height""=>""14"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.302482,114.171904,1,1
+47,点,2112,2486,11261723645, , , , , , , , ,"addr:housenumber=>""83-89"",""addr:street""=>""金巴利道 Kimberley Road""",22.302488,114.175664,1,1
+48,点,2113,156,2208339317,7-Eleven, , , , , , , ,"addr:country=>""HK"",""brand""=>""7-Eleven"",""brand:wikidata""=>""Q259340"",""brand:wikipedia""=>""en:7-Eleven"",""name:en""=>""7-Eleven"",""name:zh""=>""7-11便利店"",""shop""=>""convenience"",""website""=>""https://www.7-eleven.com.hk/""",22.30251,114.17543,1,1
+49,点,2114,865,4847959365,Bauhaus Bazaar, , , , , , , ,"addr:street=>""弥敦道 Nathan Road"",""shop""=>""clothes""",22.302515,114.171991,1,1
+50,点,2116,163,2285627660,TT Party, , , , , , , ,"amenity=>""restaurant"",""cuisine""=>""international"",""website""=>""http://ttparty.com.hk/en/home""",22.302521,114.174712,1,1
+51,点,2119,771,4535526794, ,gate, , , , , , , ,22.302528,114.17573,1,1
+52,点,2122,662,4275435379, , , ,27, , , , ,"amenity=>""post_box"",""collection_times""=>""Mo-Fr 17:00;Sa 16:00;PH off"",""drive_through""=>""no"",""operator""=>""香港邮政 Hongkong Post"",""operator:en""=>""Hongkong Post"",""operator:wikidata""=>""Q196631"",""operator:wikipedia""=>""zh:香港邮政"",""operator:zh""=>""=",22.30255,114.171927,1,1
+53,点,2124,1536,5971645185, , , , , , , , ,"amenity=>""restaurant"",""name:en""=>""Everyday""",22.302564,114.172673,1,1
+54,点,2128,2138,10115135590,齐柏林热狗 Zeppelin Hot Dog, , , , , , , ,"addr:housenumber=>""15C"",""addr:street""=>""柯士甸路 Austin Avenue"",""addr:unit""=>""A2"",""amenity""=>""fast_food"",""brand""=>""齐柏林热狗 Zeppelin Hot Dog"",""brand:en""=>""Zeppelin Hot Dog"",""brand:wikidata""=>""Q115598077"",""brand:zh""=>""齐柏林热狗"",""contac",22.302576,114.175159,1,1
+55,点,2129,2487,11261723646, , , , , , , , ,"addr:housenumber=>""14-18C"",""addr:street""=>""柯士甸路 Austin Avenue""",22.302614,114.175344,1,1
+56,点,2133,2073,9803351516, , ,give_way, , , , , , ,22.302654,114.171894,1,1
+57,点,2137,1541,5983133380, , ,crossing, , , , , ,"crossing=>""uncontrolled""",22.302666,114.171939,1,1
+58,点,2145,2588,11849666162,灵光国际教会 Lighthouse International Christian Church, , , , , , , ,"amenity=>""place_of_worship"",""name:en""=>""Lighthouse International Christian Church"",""name:zh""=>""灵光国际教会"",""phone""=>""+852 2721 0652"",""religion""=>""christian"",""website""=>""http://lighthouseministries.hk""",22.302726,114.174641,1,1
+59,点,2152,2477,11258692692, , , , , , , , ,"addr:housenumber=>""25-27"",""addr:street""=>""山林道 Hillwood Road""",22.302783,114.173374,1,1
+60,点,2153,2483,11258701492, , , , , , , , ,"entrance=>""main""",22.302784,114.17299,1,1
+61,点,2154,653,4207270047,利强记北角鸡蛋仔 Lee Keung Kee Egg Waffles, , , , , , , ,"addr:housenumber=>""178"",""addr:street""=>""弥敦道 Nathan Road"",""amenity""=>""cafe"",""name:en""=>""Lee Keung Kee Egg Waffles"",""name:ja""=>""北角利强记鸡蛋仔"",""name:zh""=>""北角利强记鸡蛋仔"",""opening_hours""=>""11:00-00:00""",22.302795,114.171976,1,1
+62,点,2155,2531,11542491200, , ,crossing, , , , , , ,22.302802,114.173504,1,1
+63,点,2156,1702,6576728586, , , , , , , , ,"amenity=>""restaurant"",""name:en""=>""Jkj hot pot""",22.302806,114.173265,1,1
+64,点,2159,109,1625209821, , ,turning_circle, , , , , ,"direction=>""clockwise""",22.302821,114.174523,1,1
+65,点,2161,692,4331132389,优品360 Best Mart 360, , , , , , , ,"addr:housenumber=>""180"",""addr:street""=>""弥敦道 Nathan Road"",""name:en""=>""Best Mart 360"",""name:zh""=>""优品360"",""shop""=>""convenience""",22.302825,114.171973,1,1
+66,点,2162,2709,12757687943, , , ,LCSD YTM/29, , , , ,"circumference=>""1.18"",""denotation""=>""natural_monument"",""height""=>""14"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.302826,114.171883,1,1
+67,点,2165,804,4770571827,波罗密素食 Paramita, , , , , , , ,"amenity=>""restaurant"",""diet:vegetarian""=>""yes"",""name:en""=>""Paramita"",""name:zh""=>""波罗密素食""",22.30283,114.171994,1,1
+68,点,2174,2482,11258701491, , , , , , , , ,"entrance=>""main""",22.302883,114.173137,1,1
+69,点,2177,2481,11258701490, , , , , , , , ,"entrance=>""main""",22.302887,114.173261,1,1
+70,点,2178,2708,12757687942, , , ,LCSD YTM/28, , , , ,"circumference=>""0.735"",""denotation""=>""natural_monument"",""height""=>""13"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.302891,114.171878,1,1
+71,点,2181,2478,11258692693, , , , , , , , ,"addr:housenumber=>""5-11"",""addr:street""=>""松山道 Pine Tree Hill Road""",22.302908,114.173453,1,1
+72,点,2188,1694,6505536199, , , , , , , , ,"addr:housenumber=>""22-26"",""addr:street""=>""柯士甸路 Austin Avenue""",22.302962,114.175045,1,1
+73,点,2190,1537,5971667747, , , , , , , , ,"amenity=>""restaurant"",""name:en""=>""Leaf Cafe""",22.302971,114.174779,1,1
+74,点,2191,708,4377439994,大师兄小厨 Taai Si Hing Restaurant, , , , , , , ,"addr:housenumber=>""184"",""addr:street""=>""弥敦道 Nathan Road"",""amenity""=>""restaurant"",""name:en""=>""Taai Si Hing Restaurant"",""name:zh""=>""大师兄小厨""",22.302973,114.171961,1,1
+75,点,2192,147,2204501775,百佳 PARKnSHOP, , , , , , , ,"brand=>""百佳超级市场 PARKnSHOP"",""brand:en""=>""PARKnSHOP"",""brand:wikidata""=>""Q7138619"",""brand:zh""=>""百佳超级市场"",""brand:zh-Hans""=>""百佳超级市场"",""brand:zh-Hant""=>""百佳超级市场"",""name:en""=>""PARKnSHOP"",""name:zh""=>""百佳"",""name:zh-",22.302984,114.175077,1,1
+76,点,2199,2707,12757687941, , , ,LCSD YTM/27, , , , ,"circumference=>""0.77"",""denotation""=>""natural_monument"",""height""=>""13"",""natural""=>""tree"",""species""=>""Ficus microcarpa"",""species:zh""=>""榕树 Chinese Banyan""",22.303035,114.171867,1,1
+77,点,2201,864,4847959360,The Wave, , , , , , , ,"addr:street=>""弥敦道 Nathan Road"",""shop""=>""yes""",22.30304,114.172016,1,1
+78,点,2206,1482,5285138723,一起果酱 Let's Jam, , , , , , , ,"addr:housenumber=>""15-17号地下D铺"",""addr:street""=>""松山道 Pine Tree Hill Road"",""amenity""=>""restaurant"",""contact:facebook""=>""https://www.facebook.com/Letsjamjam/"",""contact:instagram""=>""https://www.instagram.com/letsjam_/"",""cuisine""=>""italian"",""na",22.303055,114.173396,1,1
+79,点,2212,863,4847959359,Manhattan Tailor, , , , , , , ,"addr:street=>""弥敦道 Nathan Road"",""shop""=>""tailor""",22.303077,114.172044,1,1
+80,点,2215,862,4847959358,Milan, , , , , , , ,"addr:street=>""弥敦道 Nathan Road"",""shop""=>""yes""",22.303085,114.171995,1,1
+81,点,2218,1660,6384079201, , ,crossing, , , , , ,"crossing=>""traffic_signals"",""crossing:island""=>""no""",22.303106,114.171824,1,1
+82,点,2226,1358,4862332010,E Lizz, , , , , , , ,"addr:street=>""柯士甸路 Austin Avenue"",""shop""=>""yes""",22.303134,114.174559,1,1
+83,点,2237,2479,11258692694, , , , , , , , ,"addr:housenumber=>""15-17"",""addr:street""=>""松山道 Pine Tree Hill Road""",22.303164,114.173425,1,1
+84,点,2239,841,4844904414,星巴克 Starbucks, , , , , , , ,"amenity=>""cafe"",""brand""=>""星巴克 Starbucks"",""brand:en""=>""Starbucks"",""brand:wikidata""=>""Q37158"",""brand:wikipedia""=>""zh:星巴克"",""brand:zh""=>""星巴克"",""cuisine""=>""coffee_shop"",""name:en""=>""Starbucks"",""name:zh""=>""星巴克"",""takeaway""=>""yes""",22.303175,114.172326,1,1
+85,点,2246,579,3914318584,7-Eleven, , , , , , , ,"addr:country=>""HK"",""addr:housenumber""=>""106"",""addr:street""=>""柯士甸道 Austin Road"",""brand""=>""7-Eleven"",""brand:wikidata""=>""Q259340"",""brand:wikipedia""=>""en:7-Eleven"",""level""=>""0"",""name:en""=>""7-Eleven"",""name:zh""=>""7-11便利店"",""opening_hours""=>""24/7",22.303185,114.17244,1,1
+86,点,2247,657,4238688633, , , ,3, , , , ,"amenity=>""post_box"",""collection_times""=>""Mo-Fr 17:00; Sa 15:30"",""drive_through""=>""no"",""operator""=>""香港邮政 Hongkong Post"",""operator:en""=>""Hongkong Post"",""operator:wikidata""=>""Q196631"",""operator:wikipedia""=>""zh:香港邮政"",""operator:zh""=>""香港a",22.303186,114.174468,1,1
+87,点,2251,838,4844904411,U购Select U Select Food, , , , , , , ,"name:en=>""U Select Food"",""name:zh""=>""U购Select Food"",""shop""=>""food""",22.30319,114.172507,1,1
+88,点,2252,840,4844904413,日本城 JHC, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""branch""=>""Japan Home Centre"",""brand""=>""日本城 JHC"",""brand:en""=>""JHC"",""brand:wikidata""=>""Q11507765"",""brand:wikipedia""=>""zh-yue:日本城"",""brand:zh""=>""日本城"",""brand:zh-Hans""=>""日本城"",""brand:zh-Hant""=>""",22.303194,114.172623,1,1
+89,点,2255,839,4844904412,DS Groceries, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""shop""=>""convenience""",22.303198,114.172683,1,1
+90,点,2259,836,4844904409,阿翁海鲜火锅料理, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""amenity""=>""restaurant"",""name:en""=>""Ah Yung Roast Goose Cuisine""",22.303218,114.173001,1,1
+91,点,2268,155,2208339311, , ,crossing, , , , , ,"crossing=>""unmarked"",""crossing:markings""=>""no""",22.303239,114.174597,1,1
+92,点,2269,835,4844904408,Hong Kong Jockey Club, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""disused:shop""=>""bookmaker""",22.30324,114.173382,1,1
+93,点,2273,580,3914318585,7-Eleven, , , , , , , ,"addr:country=>""HK"",""addr:housenumber""=>""144"",""addr:street""=>""柯士甸道 Austin Road"",""brand""=>""7-Eleven"",""brand:wikidata""=>""Q259340"",""brand:wikipedia""=>""en:7-Eleven"",""level""=>""0"",""name:en""=>""7-Eleven"",""name:zh""=>""7-11便利店"",""opening_hours""=>""24/7",22.303247,114.174293,1,1
+94,点,2274,1666,6384079219, , ,crossing, , , , , ,"button_operated=>""no"",""crossing""=>""traffic_signals"",""crossing:island""=>""no"",""tactile_paving""=>""yes"",""traffic_signals:sound""=>""yes"",""traffic_signals:vibration""=>""yes""",22.303253,114.171921,1,1
+95,点,2276,1664,6384079214, , ,traffic_signals, , , , , ,"crossing=>""separate"",""traffic_signals""=>""signal"",""traffic_signals:direction""=>""backward""",22.303258,114.171989,1,1
+96,点,2282,2528,11542491080, , ,crossing, , , , , ,"crossing=>""traffic_signals""",22.303267,114.173477,1,1
+97,点,2285,2480,11258692695, , , , , , , , ,"addr:housenumber=>""124-126"",""addr:street""=>""柯士甸道 Austin Road""",22.30327,114.173344,1,1
+98,点,2287,1359,4862332011,New Wally Matt, , , , , , , ,"shop=>""yes""",22.303273,114.175107,1,1
+99,点,2288,1360,4862332012,F-Bar, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""amenity""=>""bar""",22.303277,114.175165,1,1
+100,点,2290,146,2204501773,Market Place by Jasons, , , , , , , ,"brand=>""Market Place by Jasons"",""brand:en""=>""Market Place by Jasons"",""brand:wikidata""=>""Q6770713"",""name:en""=>""Market Place by Jasons"",""opening_hours""=>""08:30-23:00"",""shop""=>""supermarket""",22.303279,114.174202,1,1
+101,点,2293,832,4844720866,Star Cafe, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""amenity""=>""cafe""",22.303297,114.173973,1,1
+102,点,2295,1356,4862332008,Beaux Tailor, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""shop""=>""tailor""",22.303297,114.173586,1,1
+103,点,2297,831,4844662167,BBQ, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""amenity""=>""restaurant""",22.3033,114.174105,1,1
+104,点,2298,834,4844904407,Treasure Watch & Jewellery, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""shop""=>""jewelry""",22.303301,114.173542,1,1
+105,点,2299,808,4780310524, , , , , , , , ,"amenity=>""restaurant"",""name:en""=>""Mister Korea BBQ"",""name:ko""=>""미스터코리아""",22.303303,114.174144,1,1
+106,点,2300,1357,4862332009,万宁 Mannings, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""amenity""=>""pharmacy"",""brand""=>""万宁 Mannings"",""brand:en""=>""Mannings"",""brand:wikidata""=>""Q13646560"",""brand:wikipedia""=>""zh:万宁 (零售商)"",""brand:zh""=>""万宁"",""brand:zh-Hans""=>""万宁"",""brand:zh-Hant""=>""t""",22.303307,114.173827,1,1
+107,点,2302,833,4844720867,Yes Buy, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""shop""=>""convenience""",22.303307,114.173737,1,1
+108,点,2305,2488,11261723647, , , , , , , , ,"addr:housenumber=>""152"",""addr:street""=>""柯士甸道 Austin Road""",22.303316,114.175114,1,1
+109,点,2311,830,4844662166,Jimmy's Tailor, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""shop""=>""tailor""",22.30333,114.175375,1,1
+110,点,2312,828,4844662164,I Love Pet Pet, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""disused:shop""=>""pet""",22.30333,114.175576,1,1
+111,点,2313,2100,9921748452,斋啡, , , , , , , ,"addr:housenumber=>""154-156"",""addr:street""=>""柯士甸道 Austin Road"",""air_conditioning""=>""yes"",""amenity""=>""cafe"",""contact:facebook""=>""https://www.facebook.com/vegocoffee/"",""contact:instagram""=>""https://www.instagram.com/vegocoffee/"",""cuisine""=>""coffee",22.303334,114.175545,1,1
+112,点,2314,829,4844662165,Kam Wah Co, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""shop""=>""yes""",22.303335,114.175483,1,1
+113,点,2315,601,3999223562, , ,bus_stop, , , , , ,"local_ref=>""8A minibus stop"",""public_transport""=>""platform""",22.303339,114.172568,1,1
+114,点,2316,1361,4862332013,Pet Salon, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""shop""=>""yes""",22.30334,114.17543,1,1
+115,点,2319,1745,6705233304, , ,traffic_signals,K421, , , , , ,22.303378,114.174653,1,1
+116,点,2321,1764,6705233587, , ,traffic_signals,K118, , , , , ,22.303379,114.173526,1,1
+117,点,2322,2529,11542491117, , ,crossing, , , , , ,"crossing=>""traffic_signals""",22.30338,114.174728,1,1
+118,点,2323,2414,11174657088,百安大厦 Pak On Building, , , , , , , ,"addr:housenumber=>""105"",""addr:street""=>""柯士甸道 Austin Road"",""name:en""=>""Pak On Building"",""name:zh""=>""百安大厦""",22.303385,114.172628,1,1
+119,点,2325,2597,11975533385,官涌山 Napier's Range, , , , , ,locality, ,"name:en=>""Napier's Range"",""name:zh""=>""官涌山""",22.303392,114.172502,1,1
+120,点,2326,1662,6384079209, , ,crossing, , , , , ,"button_operated=>""no"",""crossing""=>""traffic_signals"",""crossing:island""=>""no"",""tactile_paving""=>""yes"",""traffic_signals:sound""=>""yes"",""traffic_signals:vibration""=>""yes""",22.303396,114.171811,1,1
+121,点,2328,810,4780336021,Market Place, , , , , , , ,"brand=>""Market Place"",""brand:en""=>""Market Place"",""brand:wikidata""=>""Q10851178"",""name:en""=>""Market Place"",""name:ko""=>""마켓플레이스"",""shop""=>""supermarket""",22.303399,114.174035,1,1
+122,点,2329,837,4844904410,四喜面包西饼 Say Hey Bakery, , , , , , , ,"addr:street=>""柯士甸道 Austin Road"",""name:en""=>""Say Hey Bakery"",""name:zh""=>""四喜面包西饼"",""shop""=>""bakery""",22.303408,114.172583,1,1
+123,点,2331,850,4847861827,红岛 Shine Island, , , , , , , ,"addr:street=>""弥敦道 Nathan Road"",""amenity""=>""restaurant"",""name:en""=>""Shine Island"",""name:zh""=>""红岛""",22.303415,114.171948,1,1
+124,点,2336,1665,6384079215, , ,traffic_signals, , , , , ,"crossing=>""separate"",""traffic_signals""=>""signal""",22.303448,114.171808,1,1
+125,点,2341,2101,9922426241,点心纸, , , , , , , ,"contact:facebook=>""https://www.facebook.com/dimsumpaper/"",""contact:instagram""=>""https://www.instagram.com/dimsumpaper/"",""name:en""=>""Dimsumpaper"",""name:zh""=>""点心纸"",""opening_hours""=>""Mo-Sa 13:00-19:00; Su 13:00-18:00"",""shop""=>""convenience"",""website""",22.30349,114.172685,1,1
+126,点,2343,849,4847861824,樱一城, , , , , , , ,"addr:housenumber=>""198"",""addr:street""=>""弥敦道 Nathan Road"",""shop""=>""chemist""",22.303495,114.171937,1,1
+127,点,2344,106,1571055057, , , , , , , , ,"amenity=>""waste_basket""",22.303499,114.175545,1,1
+128,点,2348,1355,4862284174, ,gate, , , , , , , ,22.303507,114.17563,1,1
+129,点,2352,2527,11542491069, , ,crossing, , , , , ,"crossing=>""traffic_signals""",22.303546,114.173567,1,1
